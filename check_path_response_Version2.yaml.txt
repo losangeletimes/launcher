@@ -1,0 +1,19 @@
+question: "Is this path dangerous?"
+response:
+  response: "yes"
+  wind: "cold_blast"
+  question: "if path this secure?"
+  response:"if {direct} get post {path}
+  Yes True
+  
+  Question: Do you feel?
+  <true><feel>=<yes>then
+  <cold><warmer_temperature>
+  <colder_temperatures><humidity><breeze>
+  hot warmer weather coming soon!
+  <true><records><reports><highs><hotter>
+  <heat_index><100_degree><90_degree><78_degree>
+  <lows_78_degrees><average><heat_index_codex><worship><multiple><hotter_temperature><90_degrees><89_degree_average>
+  
+  <warm><cold> the breeze?
+  Warm breeze swept through mountains plains!{location}
