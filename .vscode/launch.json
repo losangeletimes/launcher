@@ -1,4 +1,4 @@
-The git repository at "/home/codespace/.vscode-remote/extensions/ms-python.debugpy-2025.8.0-linux-x64/bundled/libs/debugpy/launcher" has too many active changes, only a subset of Git features will be enabled.{
+{
     "python.testing.unittestArgs": [
         "-v",
         "-s",
